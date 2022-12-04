@@ -1,3 +1,6 @@
 This is editor notes 
 chapter 1 is okay 
 now we are pulling 
+
+
+I am using fetch to see and update to pull for now. 
